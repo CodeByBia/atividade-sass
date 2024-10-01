@@ -1,0 +1,12 @@
+{
+  "name": "atividade-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "sass -w scss/:dist/css/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
